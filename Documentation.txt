@@ -1,0 +1,9 @@
+﻿Command list:
+        -sf   | --seqfile                Show path to xml file
+        -s -n | --sequence --number      Generate sequence with forward parameters: 
+                                         -s  expression that let to create sequence
+                                         -n  length of sequence
+        -d    | --documentation          Open command documentation
+        -v    | --version                View program version
+        -c    | --clear                  Clear console
+        -e    | --exit                   Terminate program
